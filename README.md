@@ -1,4 +1,4 @@
-Artist Quiz
+Artist Quize
 
 A web application which quizes the user about a artist of their choosing via a multiple choice quiz
 
