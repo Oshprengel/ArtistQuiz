@@ -7,7 +7,7 @@ Technologies Used
 - CSS#
 - JavaScript
 - Jquery
-- Google fonts
+- Google fontsetaet
 - MusicBrainz api
 
 Future Enhancements
